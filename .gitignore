@@ -363,7 +363,7 @@ MigrationBackup/
 FodyWeavers.xsd
 
 # PS3 Compiler Logs
-*_verilog.txt
+cellPrx_*_verlog.txt
 *.FileListAbsolute.txt
 *.tlog
 
