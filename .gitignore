@@ -361,3 +361,11 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# PS3 Compiler Logs
+*_verilog.txt
+*.tlog
+
+# Ignore PS3 binaries
+*.sprx
+*.a
