@@ -364,8 +364,10 @@ FodyWeavers.xsd
 
 # PS3 Compiler Logs
 *_verilog.txt
+*..FileListAbsolute.txt
 *.tlog
 
 # Ignore PS3 binaries
 *.sprx
 *.a
+*.o
